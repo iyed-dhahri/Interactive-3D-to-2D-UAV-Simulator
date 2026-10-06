@@ -52,17 +52,6 @@ The pipeline connects, in a single framework:
 
 > Setup and run instructions will be added here.
 
-## Citation
-
-If you use this work, please cite the accompanying paper:
-
-```bibtex
-@inproceedings{uav-disaster-sim-2026,
-  title     = {An Interactive 3D-to-2D UAV Simulator for Controlled Disaster Data Generation and Analysis},
-  booktitle = {Proc. 11th Int. Technical Conf. on Frontiers of Hydraulic and Civil Engineering Technology (HCET)},
-  year      = {2026}
-}
-```
 
 ## License
 
